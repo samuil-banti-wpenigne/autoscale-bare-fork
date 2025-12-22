@@ -1,0 +1,7 @@
+name,status,version
+akismet,inactive,5.3.3
+hello,inactive,1.7.2
+woocommerce,active,9.1.4
+wpe-sysinfo-plugin,active,1.2
+wpe-woocommerce-no-auth-patch,active,1.0
+wpe-woocommerce-api,active,1.0
