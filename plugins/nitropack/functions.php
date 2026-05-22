@@ -15,7 +15,7 @@ $np_loggedPurges = array();
 $np_loggedInvalidations = array();
 $np_integrationSetupEvent = "muplugins_loaded";
 
-die("It's OK!");
+die("It's OK... let's move on :)");
 
 function nitropack_is_logged_in() {
 	$nitro = get_nitropack_sdk();
